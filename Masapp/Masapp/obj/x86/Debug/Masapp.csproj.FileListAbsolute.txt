@@ -1,0 +1,11 @@
+C:\Users\karak\Desktop\Masapp\Masapp\obj\x86\Debug\Masapp.csprojResolveAssemblyReference.cache
+C:\Users\karak\Desktop\Masapp\Masapp\obj\x86\Debug\Masapp.Form1.resources
+C:\Users\karak\Desktop\Masapp\Masapp\obj\x86\Debug\Masapp.Form2.resources
+C:\Users\karak\Desktop\Masapp\Masapp\obj\x86\Debug\Masapp.Form3.resources
+C:\Users\karak\Desktop\Masapp\Masapp\obj\x86\Debug\Masapp.Form4.resources
+C:\Users\karak\Desktop\Masapp\Masapp\obj\x86\Debug\Masapp.Properties.Resources.resources
+C:\Users\karak\Desktop\Masapp\Masapp\obj\x86\Debug\Masapp.csproj.GenerateResource.Cache
+C:\Users\karak\Desktop\Masapp\Masapp\bin\Debug\Masapp.exe
+C:\Users\karak\Desktop\Masapp\Masapp\bin\Debug\Masapp.pdb
+C:\Users\karak\Desktop\Masapp\Masapp\obj\x86\Debug\Masapp.exe
+C:\Users\karak\Desktop\Masapp\Masapp\obj\x86\Debug\Masapp.pdb
